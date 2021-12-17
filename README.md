@@ -1,8 +1,8 @@
 ### Hi there, I'm djee ^^
 
 ## A python dev and vscode lover
-- I'm currently working on a discord bot called "Scane"
-- Python programmer since 1 1/2 years
+- I'm currently trying my skills in discord bot development
+- Python programmer since 2 years
 - I am not a pro and still learning
 
 
