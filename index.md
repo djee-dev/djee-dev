@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### Hi there, I'm djee ^^
 
-You can use the [editor on GitHub](https://github.com/djee-dev/djee-dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## A python dev and PyCharm lover
+- I'm currently trying my skills in discord bot development
+- Python programmer since 2 years
+- I am not a pro and still learning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Commisions completed: 0
 
-### Markdown
+### Languages & Tools
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/95190051/143787284-1b67ddf5-0f19-41df-bcc0-fd93a4591b3b.png" />][discord.py]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br />
 
-```markdown
-Syntax highlighted code block
+### Stats
+[![djee's GitHub stats](https://github-readme-stats.vercel.app/api?username=djee-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-# Header 1
-## Header 2
-### Header 3
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djee-dev&layout=compact&theme=radical)](https://github.com/djee-dev)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/djee-dev/djee-dev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[pycharm]: https://www.jetbrains.com/pycharm/
+[python]: https://www.python.org/
+[discord.py]: https://github.com/Rapptz/discord.py
