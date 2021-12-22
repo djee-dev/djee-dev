@@ -15,6 +15,7 @@
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/95190051/143787284-1b67ddf5-0f19-41df-bcc0-fd93a4591b3b.png" />][discord.py]
 
 <br />
+<br />
 
 ### Stats
 [![djee's GitHub stats](https://github-readme-stats.vercel.app/api?username=djee-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
