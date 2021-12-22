@@ -1,11 +1,11 @@
-### Hi there, I'm djee ^^
+# Hi there, I'm djee ^^
 
 ## A python dev and PyCharm lover
 - I'm currently trying my skills in discord bot development
 - Python programmer since 2 years
 - I am not a pro and still learning
 
-## Commisions completed: 0
+### Commisions completed: 0
 
 ### Languages & Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
