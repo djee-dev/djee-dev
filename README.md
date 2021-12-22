@@ -5,7 +5,7 @@
 - Python programmer since 2 years
 - I am not a pro and still learning
 
-## Commisions fulfilled: 0
+## Commisions completed: 0
 
 ### Languages & Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
