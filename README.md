@@ -8,7 +8,8 @@
 ### Languages & Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/95190051/143787284-1b67ddf5-0f19-41df-bcc0-fd93a4591b3b.png" />][discord.py]
+[<img align="left" alt="discord.py" width="26px" src="https://user-images.githubusercontent.com/95190051/143787284-1b67ddf5-0f19-41df-bcc0-fd93a4591b3b.png" />][discord.py]
+[<img align="left" alt="Pycord" width="26px" src="https://docs.pycord.dev/en/master/_static/pycord.ico" />][pycord]
 
 <br />
 
@@ -20,3 +21,4 @@
 [pycharm]: https://www.jetbrains.com/pycharm/
 [python]: https://www.python.org/
 [discord.py]: https://github.com/Rapptz/discord.py
+[pycord]: https://github.com/Pycord-Development/pycord
